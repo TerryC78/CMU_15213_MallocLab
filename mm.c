@@ -4,7 +4,7 @@
  * name: Tianyu Chen
  * Andrew ID: tianyuc
  *
- * COMMENTS: this is a memory allocator using 10 segregated list and first
+ * COMMENTS: this is a memory allocator using 10 segregated list and best
  *           fit. Allocated block footer removed. Address into 4 bytes.
  *
  * Segregated list:
